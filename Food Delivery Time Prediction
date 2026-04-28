@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ── Load Data ──────────────────────────────────────────────────────────────
-path = kagglehub.dataset_download("gauravmalik26/food-delivery-dataset")
+path = kagglehub.dataset_download("gauravmalik26/food-delivery-dataset") 
 df = pd.read_csv(os.path.join(path, "train.csv"))
 
 # ── Clean Data ─────────────────────────────────────────────────────────────
