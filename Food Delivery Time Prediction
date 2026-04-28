@@ -11,7 +11,7 @@ from sklearn.metrics import (mean_squared_error, mean_absolute_error,
                               ConfusionMatrixDisplay, roc_curve, auc)
 import matplotlib.pyplot as plt
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore') 
 
 # ── Load Data ──────────────────────────────────────────────────────────────
 path = kagglehub.dataset_download("gauravmalik26/food-delivery-dataset") 
