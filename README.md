@@ -20,4 +20,10 @@ End-to-end ML pipeline on global pollution data across 20 countries. EDA include
 Stack: Python, Pandas, Scikit-learn, Seaborn, Matplotlib
 
 
->
+>Food Delivery Classification — Naive Bayes, KNN & Decision Tree — ML Assignment 3
+
+
+Binary classification of food deliveries as Fast or Delayed using three ML models. Data preprocessing includes Haversine distance calculation, rush hour feature engineering, and label encoding. KNN optimized using cross-validation to find best K. Decision Tree tuned using GridSearchCV on max_depth and min_samples_split. All three models compared on Accuracy, Precision, Recall, and F1 score with confusion matrices and ROC curves.
+
+
+Stack: Python, Pandas, Scikit-learn, Matplotlib
