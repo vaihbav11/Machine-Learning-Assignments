@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
  
 # ── Generate Dataset ───────────────────────────────────────────────────────
 # Since no public CSV exists we simulate realistic pollution data
-np.random.seed(42)
+np.random.seed(42) 
 n = 2000
 
 countries = ['India','China','USA','Germany','Brazil','Russia',
