@@ -27,3 +27,13 @@ Binary classification of food deliveries as Fast or Delayed using three ML model
 
 
 Stack: Python, Pandas, Scikit-learn, Matplotlib
+
+
+>Food Delivery CNN Classification — Deep Learning  ML Assignment 3
+
+
+
+Applied Conv1D CNN on tabular food delivery data to classify deliveries as Fast or Delayed. Features engineered include Haversine distance and rush hour flags. CNN architecture uses two Conv1D layers with BatchNormalization and Dropout for regularization. Model validated using 5-Fold Stratified Cross Validation. Hyperparameter tuning performed across filter sizes and learning rates. Compared against Logistic Regression baseline.
+
+
+Stack: Python, TensorFlow, Keras, scikit-learn, Pandas, Matplotlib
