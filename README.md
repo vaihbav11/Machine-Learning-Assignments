@@ -307,7 +307,7 @@ Tools        : Jupyter, VS Code, Git, Streamlit, Kaggle
 
 **Vaibhav Chaturvedi**
 📧 vaihbavv11@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/vaibhavv11)
+🔗 [LinkedIn](https://linkedin.com/in/vaibhav)
 🐙 [GitHub](https://github.com/vaibhavv11)
 
 ---
