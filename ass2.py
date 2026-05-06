@@ -10,7 +10,7 @@ from sklearn.metrics import (mean_squared_error, mean_absolute_error,
 import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore') 
 
 # ── Generate Dataset ───────────────────────────────────────────────────────
 # Since no public CSV exists we simulate realistic pollution data
