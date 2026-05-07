@@ -51,7 +51,7 @@ print(df.head())
 print("\nMissing values:\n", df.isnull().sum())
 
 # ── Handle Missing Values ────────────────────────────────────────
-num_cols = df.select_dtypes(include=[np.number]).columns.tolist()
+num_cols = df.select_dtypes(include=[np.number]).columns.tolist() 
 cat_cols = df.select_dtypes(include="object").columns.tolist()
 
 num_imp = SimpleImputer(strategy="median")
