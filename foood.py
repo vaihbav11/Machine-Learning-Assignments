@@ -23,7 +23,7 @@ from sklearn.metrics import silhouette_score
 from scipy.cluster.hierarchy import dendrogram, linkage
 
 # Neural Network
-import tensorflow as tf
+import tensorflow as tf 
 from tensorflow import keras
 from tensorflow.keras import layers
 from sklearn.metrics import (accuracy_score, precision_score,
