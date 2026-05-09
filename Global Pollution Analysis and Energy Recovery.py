@@ -30,7 +30,7 @@ df = pd.DataFrame({
     'Air_Pollution_Index': np.random.uniform(20, 300, n),
     'CO2_Emissions': np.random.uniform(100, 5000, n),
     'Industrial_Waste_in_tons': np.random.uniform(500, 50000, n),
-    'Water_Pollution_Index': np.random.uniform(10, 200, n),
+    'Water_Pollution_Index': np.random.uniform(10, 200, n), 
     'Soil_Pollution_Index': np.random.uniform(5, 150, n),
     'Population': np.random.randint(1000000, 1400000000, n),
     'Energy_Consumption_GWh': np.random.uniform(100, 10000, n),
